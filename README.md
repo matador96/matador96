@@ -21,31 +21,11 @@
 [<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
 
-## ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=matador96&theme=algolia" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matador96&theme=algolia&layout=compact" />
-    </td>
-  </tr>
-</table>
-
-## ⚡ Stats 
+## 📈 GitHub Stats ![visitors](https://visitor-badge.glitch.me/badge?page_id=matador96)
 <div align="left">
-  <a href="https://github.com/matador96?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/matador96"/></a>
-  <a href="https://github.com/matador96?tab=repositories&sort=stargazers">
-    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/matador96"/></a>
-  <a href="https://github.com/matador96">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/matador96?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=matador96&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matador96&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
 </div>
-
-![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matador96&hide=["issues"]&show_icons=true)
-
 
 [instagram]: https://instagram.com/ismailovaltun
 [linkedin]: https://linkedin.com/in/altun-ismailov-45a8141b6
@@ -54,7 +34,3 @@
 [rocketeers.ru]: https://rocketeers.ru
 [rltv.top]: https://rltv.top
 [roketka.ru]: https://roketka.ru
-
-⭐️ From [matador96](https://github.com/matador96)
-visitors : ![visitors](https://visitor-badge.glitch.me/badge?page_id=matador96)
-
