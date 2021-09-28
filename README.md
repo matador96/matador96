@@ -2,8 +2,11 @@
 
 - 📍 From Russia (Krasnoyarsk)
 - 💻 2+ Years Experience in Fullstack Development
-- 👨‍💻 Front-end Enthusiast & Volunteer
 
+##  🎉 My projects (except for work) 🎉
+- [**RLTV.TOP**][rltv.top]: Rocket League Rank checker
+- [**ROCKETEERS.RU**][rocketeers.ru]: Rocket League Portal for CIS COMUNITY
+- [**ROKETKA.RU**][roketka.ru]: IN PROCESS, OPENCASE APP.
 
 
 ##  🎉 Skills  🎉
@@ -49,7 +52,9 @@
 [linkedin]: https://linkedin.com/in/altun-ismailov-45a8141b6
 [vk]: https://vk.com/mataplay
 [patron]: https://www.patreon.com/matador_rl
-
+[rocketeers.ru]: https://rocketeers.ru
+[rltv.top]: https://rltv.top
+[roketka.ru]: https://roketka.ru
 
 ⭐️ From [matador96](https://github.com/matador96)
 visitors : ![visitors](https://visitor-badge.glitch.me/badge?page_id=matador96)
