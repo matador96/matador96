@@ -6,7 +6,7 @@
 ##  🎉 My projects (except for work) 🎉
 - [**RLTV.TOP**][rltv.top]: Rocket League Rank checker
 - [**ROCKETEERS.RU**][rocketeers.ru]: Rocket League Portal for CIS COMUNITY
-- [**ROKETKA.RU**][roketka.ru]: IN PROCESS, OPENCASE APP.
+- IN PROCESS, OPENCASE APP.
 
 ##  🎉 Skills  🎉
 - **FrontEnd**: React, Vue, CSS, HTML
