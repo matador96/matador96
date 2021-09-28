@@ -1,6 +1,11 @@
-### Hi all, I'm Altun 👋
+## Hi all, I'm Altun 👋 I'm a Developer!
 
-<div align="center">
+- 📍 From Russia (Krasnoyarsk)
+- 💻 2+ Years Experience in Fullstack Development
+- 👨‍💻 Front-end Enthusiast & Volunteer
+
+## ⚡ Stats
+<div align="left">
   <a href="https://github.com/matador96?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/matador96"/></a>
   <a href="https://github.com/matador96?tab=repositories&sort=stargazers">
@@ -9,21 +14,22 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/matador96?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 
+![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matador96&hide=["issues"]&show_icons=true)
 
-## I'm a Developer!
+##  🎉 Skills  🎉
+- **FrontEnd**: React, Vue, CSS, HTML
+- **BackEnd**: Node.js, PHP
+- **DevOps**: Nginx, Docker
+- **Web technologies**: HTML5, CSS3, Socket
+- **Databases**: MySQL (Sequalize), MariaDB, Redis
+- **Languages**: PHP, Js, Ruby, Python
 
-- 📍 I’m From Russia (Krasnoyarsk)
-- 💻 2+ Years Experience in Fullstack Development
-- 👨‍💻 Front-end Enthusiast & Volunteer
-
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 [<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
 
----
-
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
@@ -36,7 +42,7 @@
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 
-### 🛠 Tools:
+## 🛠 Tools:
 
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
@@ -46,7 +52,7 @@
 
 
 
-### ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <table>
   <tr>
@@ -59,10 +65,13 @@
   </tr>
 </table>
 
----
 
 [instagram]: https://instagram.com/ismailovaltun
 [linkedin]: https://linkedin.com/in/altun-ismailov-45a8141b6
 [vk]: https://vk.com/mataplay
 [patron]: https://www.patreon.com/matador_rl
+
+
+⭐️ From [matador96](https://github.com/matador96)
+visitors : ![visitors](https://visitor-badge.glitch.me/badge?page_id=matador96)
 
