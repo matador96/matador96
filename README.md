@@ -1,4 +1,4 @@
-## Hi all, I'm Altun 👋 I'm a Developer!
+## Hi all, I'm Altun 👋 I'm a Developer! (currently unemployed)
 
 - 📍 From Russia (Krasnoyarsk)
 - 💻 2+ Years Experience in Fullstack Development
@@ -7,7 +7,6 @@
 - [**RLTV.TOP**][rltv.top]: Rocket League Rank checker
 - [**ROCKETEERS.RU**][rocketeers.ru]: Rocket League Portal for CIS COMUNITY
 - [**ROKETKA.RU**][roketka.ru]: IN PROCESS, OPENCASE APP.
-
 
 ##  🎉 Skills  🎉
 - **FrontEnd**: React, Vue, CSS, HTML
