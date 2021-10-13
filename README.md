@@ -2,6 +2,7 @@
 
 - 📍 From Russia (Krasnoyarsk)
 - 💻 2+ Years Experience in Fullstack Development
+- [**My resume**][resume]
 
 ##  🎉 My projects (except for work) 🎉
 - [**RLTV.TOP**][rltv.top]: Rocket League Rank checker
@@ -34,3 +35,4 @@
 [rocketeers.ru]: https://rocketeers.ru
 [rltv.top]: https://rltv.top
 [roketka.ru]: https://roketka.ru
+[resume]: https://matador96.github.io/resume/
