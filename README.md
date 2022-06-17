@@ -1,4 +1,4 @@
-## Hi all, I'm Altun 👋 I'm a Developer! (currently unemployed)
+## Hi all, I'm Altun 👋 I'm a Developer! (from SberClod)
 
 - 📍 From Russia (Krasnoyarsk)
 - 💻 2+ Years Experience in Fullstack Development
