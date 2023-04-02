@@ -1,9 +1,7 @@
 ## Hi all, I'm Altun 👋 I'm a Developer! (from SberCloud)
 
 - 📍 From Russia (Baku)
-- 💻 4+ Years Experience in Fullstack Development
-- 🤝 Now in SberCloud, Frontend Team Leader
-- [**My resume**][resume]
+- 💻 4+ Years Experience in Frontend/Fullstack Development
 
 ## 🎉 Skills 🎉
 
