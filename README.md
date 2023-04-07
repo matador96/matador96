@@ -1,12 +1,12 @@
 ## Hi all, I'm Altun 👋 I'm a Developer!
 
 - 📍 From Russia (now in Baku)
-- 💻 4+ Years Experience in Frontend/Fullstack Development
+- 💻 5+ Years Experience in Frontend/Fullstack Development
 
 ## 🎉 Skills 🎉
 
 - **FrontEnd**: React, Vue, CSS/LESS/SCSS HTML
-- **BackEnd**: Node
+- **BackEnd**: Node (Express)
 - **DevOps**: Nginx, Docker, CI/CD, Jenkins
 - **Databases**: MySQL (Sequalize), Mongo (Mongoose), Redis
 - **Some**: Jira, Confluence, GitLab, Github, npm, linux, sockets, creating ui kits, Ant Design, Bootstrap
