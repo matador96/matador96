@@ -1,6 +1,5 @@
 ## Hi all, I'm Altun 👋 I'm a Developer!
 
-- 📍 From Russia (now in Baku)
 - 💻 5+ Years Experience in Frontend/Fullstack Development
 
 ## 🎉 Skills 🎉
